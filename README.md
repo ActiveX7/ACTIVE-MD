@@ -25,7 +25,7 @@
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">ΔCTIVE-𝐌𝐃</span> 🚀</b>
+  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">ΔctiveTsh</span> 🚀</b>
 </p>
 
 ---
