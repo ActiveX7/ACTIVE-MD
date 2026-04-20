@@ -73,7 +73,7 @@
   <a href="https://whatsapp.com/channel/0029VbCuey0CMY08nyQ5g11P">
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+255717160991&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
+  <a href="https://api.whatsapp.com/send?phone=+255717160991&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹`ActiveTsh`'">
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -106,6 +106,6 @@ Do not sell, misuse, or use without giving credits.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
-  🌈✨ Thanks for using <span style="color:#00FFFF">𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃</span> ✨🌈
+  🌈✨ Thanks for using <span style="color:#00FFFF">ΔCTIVE-𝐌𝐃</span> ✨🌈
 </h2>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
