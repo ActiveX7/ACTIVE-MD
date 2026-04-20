@@ -6,10 +6,10 @@
 
  
 > ✨ *Ultra Pro Max WhatsApp Bot* ✨  
-<a href="https://github.com/Faizan-MD-BOTZ"><img title="Author" src="https://img.shields.io/badge/FAZI-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@arslanmdofficial"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/923266105873"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ActiveX7/ACTIVE-MD"><img title="Author" src="https://img.shields.io/badge/ACTIVE-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@arslanmdofficial"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/255717160991"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-  <img src="https://files.catbox.moe/ejufwa.jpg" alt="𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://iili.io/BgbQT5N.jpg" alt="ΔCTIVE-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
@@ -19,7 +19,7 @@
                font-size: 45px; 
                font-weight: bold;">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    ✨ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃 ✨
+    ✨ ΔCTIVE-𝐌𝐃 ✨
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </span>
 </h1>
@@ -35,8 +35,8 @@
   <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
-    <img src="https://img.shields.io/github/stars/FAIZAN-AI/FAIZAN-AI?style=for-the-badge&color=gold&logo=github" />
+  <a href="https://github.com/ActiveX7/ACTIVE-MD/Active-Ai/fork">
+    <img src="https://iili.io/BgbQT5N.jpg" />
   </a>i
 </p>
 <p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
@@ -70,7 +70,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g">
+  <a href="https://whatsapp.com/channel/0029VbCuey0CMY08nyQ5g11P">
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+923408576674&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
